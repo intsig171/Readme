@@ -35,6 +35,7 @@ EmptySet
 ```
 
 </details>
-
+![GitHub stars](https://starchart.cc/intsig171/Readme.svg?theme=dark)
+![GitHub stars](https://starchart.cc/intsig171/SmartCodable.svg?theme=dark)
 
 ![Star History Chart](https://api.star-history.com/svg?repos=intsig171/Readme&type=Date)
