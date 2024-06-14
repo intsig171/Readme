@@ -36,4 +36,4 @@ EmptySet
 
 </details>
 
-![GitHub stars](https://starchart.cc/intsig171/Readme.svg?theme=dark)
+![GitHub stars](https://starchart.cc/intsig171/Readme.svg)
