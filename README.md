@@ -1,5 +1,6 @@
 # Readme
 
+![GitHub stars](https://starchart.cc/intsig171/Readme.svg)
 
 
 
