@@ -1,14 +1,16 @@
 # Readme
 
-```
+
+
+
+
 <details>
-```
 
 <summary>All Empty Values</summary>
 
 </br>
 
-```
+```swift
 BoolTrue
 BoolFalse
 EmptyBool
@@ -33,3 +35,4 @@ EmptySet
 ```
 
 </details>
+
